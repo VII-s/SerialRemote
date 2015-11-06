@@ -1,0 +1,9 @@
+H:\SerialRemote\SerialRemote\SerialRemote\bin\Debug\SerialRemote.exe.config
+H:\SerialRemote\SerialRemote\SerialRemote\bin\Debug\SerialRemote.exe
+H:\SerialRemote\SerialRemote\SerialRemote\bin\Debug\SerialRemote.pdb
+H:\SerialRemote\SerialRemote\SerialRemote\obj\Debug\SerialRemote.csprojResolveAssemblyReference.cache
+H:\SerialRemote\SerialRemote\SerialRemote\obj\Debug\SerialRemote.Form1.resources
+H:\SerialRemote\SerialRemote\SerialRemote\obj\Debug\SerialRemote.Properties.Resources.resources
+H:\SerialRemote\SerialRemote\SerialRemote\obj\Debug\SerialRemote.csproj.GenerateResource.Cache
+H:\SerialRemote\SerialRemote\SerialRemote\obj\Debug\SerialRemote.exe
+H:\SerialRemote\SerialRemote\SerialRemote\obj\Debug\SerialRemote.pdb
